@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@canva/app-i18n-kit": "^1.2.0",
-    "@canva/app-ui-kit": "^5.5.0",
+    "@canva/app-ui-kit": "^5.6.0",
     "@canva/intents": "^2.2.0",
     "@formatjs/cli": "^6.12.2",
     "@types/node": "^20.0.0",
