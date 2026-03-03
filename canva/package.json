@@ -1,7 +1,7 @@
 {
   "name": "canva-to-outlook-canva-app",
   "version": "1.0.0",
-  "description": "Canva app for converting Canva email exports to Outlook-ready HTML",
+  "description": "Email Export Tool - Canva app for converting Canva email exports to email-ready HTML",
   "private": true,
   "scripts": {
     "dev": "webpack serve --mode development",

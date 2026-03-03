@@ -76,7 +76,7 @@
     "description": "Success message after the email is copied to clipboard"
   },
   "app.title": {
-    "defaultMessage": "Canva to Outlook",
+    "defaultMessage": "Email Export Tool",
     "description": "Main app title"
   },
   "app.validation.invalid": {

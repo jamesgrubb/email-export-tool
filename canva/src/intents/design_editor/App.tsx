@@ -338,7 +338,7 @@ export default function App() {
       <Title size="medium">
         <FormattedMessage
           id="app.title"
-          defaultMessage="Canva to Outlook"
+          defaultMessage="Email Export Tool"
           description="Main app title"
         />
       </Title>
